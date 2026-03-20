@@ -1,6 +1,6 @@
 | Identor #  | Name | Notes
 | ---------- | ---- | ----- |
-| 1 | Antti Lukats | |
+| 1 | [Antti Lukats](https://www.linkedin.com/in/anttilukats/) | |
 | 2 | Anu Lukats-Sang | |
 | 3 | Andre Lukats| |
 | 4 | Anna Lukats| |
