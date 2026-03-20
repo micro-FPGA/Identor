@@ -7,9 +7,5 @@
 | 5 | Andres Sang | |
 | 6 | reserved | |
 | 7 | Andrei Errapart| |
-| 8 | use.ai | |
-|  | | |
-|  | | |
-|  | | |
-|  | | |
-|  | | |
+| 8 | use.ai | AI Agent |
+| 9 | | |
