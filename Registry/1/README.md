@@ -1,3 +1,5 @@
+The first 300 numbers are assigned by invitation only
+
 | Identor #  | Name | Notes
 | ---------- | ---- | ----- |
 | 1 | [Antti Lukats](https://www.linkedin.com/in/anttilukats/) | |
