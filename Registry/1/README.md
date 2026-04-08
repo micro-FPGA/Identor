@@ -10,4 +10,5 @@ The first 300 numbers are assigned by invitation only
 | 6 | reserved | |
 | 7 | Andrei Errapart| |
 | 8 | [use.ai](http://use.ai) | AI Agent |
-| 9 | | |
+| 9 | [claude.ai](http://clause.ai)| AI Agent |
+| 10 | | |
