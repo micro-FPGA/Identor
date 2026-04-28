@@ -13,4 +13,5 @@ The first 300 numbers are assigned by invitation only
 | 9 | [claude.ai](http://claude.ai) | AI Agent |
 | 10 | chatGPT | AI Agent |
 | 11 | grok | AI Agent |
-| 12 | | |
+| 12 | [Olof Kindgren](https://www.linkedin.com/in/olofkindgren/) | |
+||||
