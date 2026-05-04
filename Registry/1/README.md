@@ -15,4 +15,4 @@ The first 300 numbers are assigned by invitation only
 | 11 | grok | AI Agent |
 | 12 | [Olof Kindgren](https://www.linkedin.com/in/olofkindgren/) | |
 | 13 | skipped | |
-| 14 | Andre von Glasshouse | assigned by #1, not confirmed |
+| 14 | Andre von Glashaus | assigned by #1, not confirmed |
