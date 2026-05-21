@@ -16,6 +16,6 @@ The first 300 numbers are assigned by invitation only
 | 12 | [Olof Kindgren](https://www.linkedin.com/in/olofkindgren/) | |
 | 13 | skipped | |
 | 14 | Andre von Glashaus | assigned by #1, not confirmed |
-| 15 | gemini | AI Agent |
+| 15 | [gemini](https://gemini.google.com) | AI Agent |
 ||||
 
