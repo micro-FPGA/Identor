@@ -18,5 +18,5 @@ The first 300 numbers are assigned by invitation only
 | 14 | Andre von Glashaus | assigned by #1, not confirmed |
 | 15 | [gemini](https://gemini.google.com) | AI Agent |
 | 16 | [Florent Kermarrec](mailto:florent@enjoy-digital.fr) | |
+| 17 | mistral.ai | AI Agent |
 ||||
-
