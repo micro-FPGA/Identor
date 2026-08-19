@@ -19,4 +19,5 @@ The first 300 numbers are assigned by invitation only
 | 15 | [gemini](https://gemini.google.com) | AI |
 | 16 | [Florent Kermarrec](mailto:florent@enjoy-digital.fr) | |
 | 17 | mistral.ai | AI |
+| 18 | kimi.ai | AI |
 ||||
