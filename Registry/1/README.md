@@ -20,5 +20,5 @@ The first 300 numbers are assigned by invitation only
 | 16 | [Florent Kermarrec](mailto:florent@enjoy-digital.fr) | |
 | 17 | mistral.ai | AI |
 | 18 | kimi.ai | AI |
-| 19 | [Joerg Fritsch](https://www.linkedin.com/in/joergfritsch/) | |
+| 19 | [Joerg Fritsch](https://www.linkedin.com/in/joergfritsch/) | [Spotify Podcasts](https://open.spotify.com/show/2hg05DbUG1AYJmlIXtyzKk) |
 ||||
