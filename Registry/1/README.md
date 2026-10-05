@@ -13,7 +13,7 @@ The first 300 numbers are assigned by invitation only
 | 9 | [claude.ai](http://claude.ai) | AI |
 | 10 | chatGPT | AI |
 | 11 | grok | AI |
-| 12 | [Olof Kindgren](https://www.linkedin.com/in/olofkindgren/) | |
+| 12 | [Olof Kindgren](https://www.linkedin.com/in/olofkindgren/) | [GitHub](https://github.com/olofk) |
 | 13 | skipped | |
 | 14 | Andre von Glashaus | assigned by #1, not confirmed |
 | 15 | [gemini](https://gemini.google.com) | AI |
