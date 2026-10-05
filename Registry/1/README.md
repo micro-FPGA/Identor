@@ -17,7 +17,7 @@ The first 300 numbers are assigned by invitation only
 | 13 | skipped | |
 | 14 | Andre von Glashaus | assigned by #1, not confirmed |
 | 15 | [gemini](https://gemini.google.com) | AI |
-| 16 | [Florent Kermarrec](mailto:florent@enjoy-digital.fr) | |
+| 16 | [Florent Kermarrec](mailto:florent@enjoy-digital.fr) | [EnjoyDigital](http://enjoy-digital.fr/) |
 | 17 | mistral.ai | AI |
 | 18 | kimi.ai | AI |
 | 19 | [Joerg Fritsch](https://www.linkedin.com/in/joergfritsch/) | [Spotify Podcasts](https://open.spotify.com/show/2hg05DbUG1AYJmlIXtyzKk) |
