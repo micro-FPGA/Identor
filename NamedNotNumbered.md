@@ -5,6 +5,6 @@ These people have not been asked, have no connection to this register, and are l
 Each is here for one idea, and the idea is named. They hold no identor number. If any of them says yes, they move to [the numbered list](Registry/1).
 
 
-| Name | Notes/Link |
+| Name | Idea/Notes/Link |
 |------|-----|
 | [Bill Gates](https://www.linkedin.com/in/williamhgates/)| https://www.gatesfoundation.org/ideas |
