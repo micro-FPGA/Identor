@@ -41,7 +41,7 @@ A: Yes. Ask, and you get the next free one above 300.
 A: No. Those are by invitation only.
 
 **Q: How do I ask?**
-A: Open an issue here: https://github.com/micro-FPGA/Identor/issues Give the name you want listed, and one link if you want one. Optionally contact Antti Lukats per email.
+A: Open an issue here: https://github.com/micro-FPGA/Identor/issues Give the name you want listed, and one link if you want one. Optionally contact [Antti Lukats](mailto:Antti.Lukats@gmail.com) by email.
    
 **Q: Is this serious?**
 A: Yes.
