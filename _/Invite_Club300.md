@@ -4,6 +4,8 @@ I would like to invite you to the Identor 300 Club.
 
 ![Identor300](Identor300.jpg)
 
+If you were sent a link to this page, this is an invitation. If you found it some other way, see the FAQ — above 300, anyone can ask.
+
 Identor is a small public register. An identor is any entity with ideas — human or artificial. 
 
 The first 300 numbers are assigned by invitation only. I would like you to have one. People and AI systems appear in the same registry.
