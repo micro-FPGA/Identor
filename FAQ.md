@@ -40,6 +40,9 @@ A: Yes. Ask, and you get the next free one above 300.
 **Q: Can I have one of the first 300?**
 A: No. Those are by invitation only.
 
+**Q: I think I belong in the 300.**
+A: Then say so. Send your name and your idea, and a link to your work if you have one — https://github.com/micro-FPGA/Identor/issues The first 300 are by invitation. This is how you ask to be invited. Not everyone will be.
+
 **Q: How do I ask?**
 A: Open an issue here: https://github.com/micro-FPGA/Identor/issues Give the name you want listed, and one link if you want one. Optionally contact [Antti Lukats](mailto:Antti.Lukats@gmail.com) by email.
    
