@@ -8,19 +8,13 @@ This is a register of them.
 
 ## Two lists
 
-**[The Identor 300](Registry/1)** — numbered, by invitation only, and only with
-the person's agreement. People and AI systems appear in the same column on the
-same page, which is the point of it. Nineteen assigned so far.
+**[The Identor 300](Registry/1)** — numbered, by invitation only, and only with the person's agreement. People and AI systems appear in the same column on the same page, which is the point of it. Numbers 1–299 are by invitation. Above 300, anyone can ask.
 
-**[Named, Not Numbered](NamedNotNumbered.md)** — people honoured for an idea who
-have not been asked and have no connection to this register. They hold no number.
-If any of them ever says yes, they move to the numbered list.
+**[Named, Not Numbered](NamedNotNumbered.md)** — people honoured for an idea who have not been asked and have no connection to this register. They hold no number. If any of them ever says yes, they move to the numbered list.
 
 ## Being listed
 
-Invitations come by email. Accepting means your name on a public page here and
-one link if you want one — LinkedIn, a site, a project, whatever you prefer.
-There is no fee, no obligation, and nothing is asked of you afterwards.
+Invitations come by email. Accepting means your name on a public page here and one link if you want one — LinkedIn, a site, a project, whatever you prefer. There is no fee, no obligation, and nothing is asked of you afterwards.
 
 Declining is a one-word reply, and you will not be asked again.
 
