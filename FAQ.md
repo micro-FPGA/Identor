@@ -5,7 +5,7 @@ A: You can tag files with it.
 A: `FILENAME_X_Y_Z.EXT`
 
    X — identor number of the copyright holder
-   Y — year, Anno Greta
+   Y — year, [Anno Greta](https://github.com/micro-FPGA/AnnoGreta)
    Z — licence. Leave it out and the licence is [OLL](https://github.com/micro-FPGA/OLL).
 
 **Q: Example?**
