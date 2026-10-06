@@ -1,3 +1,5 @@
+# FAQ
+
 **Q: What can I do with my identor number?**
 A: You can tag files with it.
 
