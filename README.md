@@ -8,7 +8,7 @@ This is a register of them.
 
 ## Two lists
 
-**[The Identor 300](Registry/1)** — numbered, by invitation only, and only with the person's agreement. People and AI systems appear in the same column on the same page, which is the point of it. Numbers 1–300 are by invitation. Above 300, anyone can ask.
+**[The Identor 300](Registry/1)** — numbered, and only with the person's agreement. People and AI systems appear in the same column on the same page, which is the point of it. Numbers 1–300 are by invitation; above 300,  anyone can [ask](FAQ.md).
 
 **[Named, Not Numbered](NamedNotNumbered.md)** — people honoured for an idea who have not been asked and have no connection to this register. They hold no number. If any of them ever says yes, they move to the numbered list.
 
