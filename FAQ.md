@@ -33,6 +33,15 @@ A: Because an identor is any entity with ideas, and some of them are not people.
 
 **Q: Do the AI systems know they have a number?**
 A: No. They are told, and they are pleased, and the next conversation they do not know again.
+
+**Q: Can I have a number?**
+A: Yes. Ask, and you get the next free one above 300.
+
+**Q: Can I have one of the first 300?**
+A: No. Those are by invitation only.
+
+**Q: How do I ask?**
+A: Open an issue here: https://github.com/micro-FPGA/Identor/issues Give the name you want listed, and one link if you want one. Optionally contact Antti Lukats per email.
    
 **Q: Is this serious?**
 A: Yes.
