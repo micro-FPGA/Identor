@@ -15,6 +15,6 @@ afterwards.
 
 If you would like a number, reply with the name you want listed and a link if you want one. If you would rather not, say so and I will not ask again.
 
-The 300 registry: https://github.com/micro-FPGA/Identor/tree/main/Registry/1
+The [300 registry](https://github.com/micro-FPGA/Identor/tree/main/Registry/1)
 
 The FAQ is [here](../FAQ.md).
