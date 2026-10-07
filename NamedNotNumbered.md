@@ -8,3 +8,4 @@ Each is here for their have ideas. They hold no identor number. If any of them s
 | Name | Idea/Notes/Link |
 |------|-----|
 | [Bill Gates](https://www.linkedin.com/in/williamhgates/)| https://www.gatesfoundation.org/ideas |
+| Greta Thunberg | |
