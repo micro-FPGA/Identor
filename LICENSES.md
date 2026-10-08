@@ -21,8 +21,8 @@ Leave `Z` out and it is `0`.
 | 3 | CERN OHL v2 Permissive | `CERN-OHL-P-2.0` |
 | 4 | BSD 2-Clause | `BSD-2-Clause` |
 | 5 |  |  |
-| 6 | GNU GPL v3.0 only | `GPL-3.0-only` |
-| 7 | GNU LGPL v3.0 only | `LGPL-3.0-only` |
+| 6 | GNU GPL v3.0 or later | `GPL-3.0-or-later` |
+| 7 | GNU LGPL v3.0 or later | `LGPL-3.0-or-later` |
 | 8 | Mozilla Public License 2.0 | `MPL-2.0` |
 | 9 | CC0 1.0 — public domain | `CC0-1.0` |
 | 10 | Creative Commons BY 4.0 | `CC-BY-4.0` |
