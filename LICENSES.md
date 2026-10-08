@@ -20,7 +20,7 @@ Leave `Z` out and it is `0`.
 | 2 | Apache License 2.0 | `Apache-2.0` |
 | 3 | CERN OHL v2 Permissive | `CERN-OHL-P-2.0` |
 | 4 | BSD 2-Clause | `BSD-2-Clause` |
-| 5 |  |  |
+| 5 | *reserved* |  |
 | 6 | GNU GPL v3.0 or later | `GPL-3.0-or-later` |
 | 7 | GNU LGPL v3.0 or later | `LGPL-3.0-or-later` |
 | 8 | Mozilla Public License 2.0 | `MPL-2.0` |
