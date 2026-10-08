@@ -1,0 +1,36 @@
+# Licences
+
+Numbers for the `Z` field in `FILENAME_X_Y_Z.EXT`. See the [FAQ](FAQ.md).
+
+Leave `Z` out and it is `0`.
+
+## Two rules
+
+1. **Numbers are never reused.** Same rule as identor numbers. If an entry
+   is ever withdrawn, its number stays empty for ever.
+2. **The list only grows.** A number means today what it meant the day it
+   was assigned, so a file tagged years ago still reads correctly.
+
+## The list
+
+| Z | Licence | SPDX |
+|---|---|---|
+| 0 | Open Love License v1.0 | — see [OLL](https://github.com/micro-FPGA/OLL) |
+| 1 | MIT | `MIT` |
+| 2 | Apache License 2.0 | `Apache-2.0` |
+| 3 | |  |
+| 4 | BSD 2-Clause | `BSD-2-Clause` |
+| 5 |  |  |
+| 6 | GNU GPL v3.0 only | `GPL-3.0-only` |
+| 7 | GNU LGPL v3.0 only | `LGPL-3.0-only` |
+| 8 | Mozilla Public License 2.0 | `MPL-2.0` |
+| 9 | CC0 1.0 — public domain | `CC0-1.0` |
+| 10 | Creative Commons BY 4.0 | `CC-BY-4.0` |
+| 11 | Creative Commons BY-SA 4.0 | `CC-BY-SA-4.0` |
+| 12 | The Unlicense | `Unlicense` |
+| 13 | All rights reserved — no licence granted | not an SPDX identifier |
+
+## Reading a name
+
+Fields are read from the right-hand end of the name, so underscores earlier
+in the name do not matter.
