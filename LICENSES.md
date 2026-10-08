@@ -34,8 +34,10 @@ Leave `Z` out and it is `0`.
 
 Fields are read from the right-hand end of the name, so underscores earlier
 in the name do not matter.
-
-
+```
+fir_tap_delay_1_7_2.vhd   identor #1, year 7 AG, Apache-2.0
+led143_1_7.vhd            identor #1, year 7 AG, OLL
+```
 Fields fill from the left. Only the last one may be left out.
 
 ## If the licence you need is not here
