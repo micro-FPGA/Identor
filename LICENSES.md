@@ -34,3 +34,17 @@ Leave `Z` out and it is `0`.
 
 Fields are read from the right-hand end of the name, so underscores earlier
 in the name do not matter.
+
+
+Fields fill from the left. Only the last one may be left out.
+
+## If the licence you need is not here
+
+Ask, and it is added with the next free number. Or write the SPDX
+identifier into the file itself — the number is a convenience, not a
+requirement.
+
+## What the tag is not
+
+The tag records an intention. The licence itself still has to be in the
+repository.
