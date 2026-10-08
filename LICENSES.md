@@ -18,7 +18,7 @@ Leave `Z` out and it is `0`.
 | 0 | Open Love License v1.0 | — see [OLL](https://github.com/micro-FPGA/OLL) |
 | 1 | MIT | `MIT` |
 | 2 | Apache License 2.0 | `Apache-2.0` |
-| 3 | |  |
+| 3 | CERN OHL v2 Permissive | `CERN-OHL-P-2.0` |
 | 4 | BSD 2-Clause | `BSD-2-Clause` |
 | 5 |  |  |
 | 6 | GNU GPL v3.0 only | `GPL-3.0-only` |
@@ -28,7 +28,7 @@ Leave `Z` out and it is `0`.
 | 10 | Creative Commons BY 4.0 | `CC-BY-4.0` |
 | 11 | Creative Commons BY-SA 4.0 | `CC-BY-SA-4.0` |
 | 12 | The Unlicense | `Unlicense` |
-| 13 | All rights reserved — no licence granted | not an SPDX identifier |
+| 13 | All rights reserved — no license granted | not an SPDX identifier |
 
 ## Reading a name
 
