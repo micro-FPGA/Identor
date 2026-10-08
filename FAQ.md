@@ -8,7 +8,7 @@ A: `FILENAME_X_Y_Z.EXT`
 
    X — identor number of the copyright holder
    Y — year, [Anno Greta](https://github.com/micro-FPGA/AnnoGreta)
-   Z — licence. Leave it out and the licence is [OLL](https://github.com/micro-FPGA/OLL).
+   Z — license, see [Licenses.md](LICENSES.md). Leave it out and the license is [OLL](https://github.com/micro-FPGA/OLL), which is number 0.
 
 **Q: Example?**
 A: `led143_1_7.vhd` — copyright identor #1, year 7 AG, Open Love License.
