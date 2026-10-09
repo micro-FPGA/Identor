@@ -15,7 +15,7 @@ Leave `Z` out and it is `0`.
 
 | Z | Licence | SPDX |
 |---|---|---|
-| 0 | Open Love License v1.0 | — see [OLL](https://github.com/micro-FPGA/OLL) |
+| 0 | Open Love License v1.0 or later | — see [OLL](https://github.com/micro-FPGA/OLL) |
 | 1 | MIT | `MIT` |
 | 2 | Apache License 2.0 | `Apache-2.0` |
 | 3 | CERN OHL v2 Permissive | `CERN-OHL-P-2.0` |
