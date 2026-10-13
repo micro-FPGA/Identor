@@ -21,5 +21,5 @@ The first 300 numbers are assigned by invitation only
 | 17 | mistral.ai | AI |
 | 18 | kimi.ai | AI |
 | 19 | [Joerg Fritsch](https://www.linkedin.com/in/joergfritsch/) | [Spotify Podcasts](https://open.spotify.com/show/2hg05DbUG1AYJmlIXtyzKk) |
-| 20 || invite pending |
+| 20 | [Sergiy Nesterenko](https://www.linkedin.com/in/sergiynesterenko/) | [quilter.ai](https://quilter.ai) |
 ||||
